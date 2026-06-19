@@ -92,7 +92,7 @@ static const struct GFRomHeader sGFRomHeader = {
     .version = GAME_VERSION,
     .language = GAME_LANGUAGE,
 #ifdef FIRERED
-    .gameName = "pokemon red version",
+    .gameName = "eternal night",
 #else
     .gameName = "pokemon green version",
 #endif

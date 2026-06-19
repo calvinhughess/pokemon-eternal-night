@@ -188,14 +188,15 @@ gPikachuIntro_Text_Page3::
 
 gOakSpeech_Text_WelcomeToTheWorld::
     .string "Hello, there!\n"
-    .string "Glad to meet you!\p"
+    .string "You chose a strange night to wake.\p"
     .string "Welcome to the world of POKéMON!\p"
     .string "My name is OAK.\p"
     .string "People affectionately refer to me\n"
     .string "as the POKéMON PROFESSOR.\p$"
 
 gOakSpeech_Text_ThisWorld::
-    .string "This world…$"
+    .string "This world, under this endless\n"
+    .string "night…$"
 
 gOakSpeech_Text_IsInhabitedFarAndWide::
     .string "…is inhabited far and wide by\n"

@@ -12,13 +12,13 @@ PalletTown_Text_OakGrassUnsafeNeedMon::
 
 PalletTown_Text_RaisingMonsToo::
     .string "I'm raising POKéMON, too.\p"
-    .string "When they get strong, they can\n"
-    .string "protect me.$"
+    .string "Lately they twitch in their sleep,\n"
+    .string "like they're fighting nightmares.$"
 
 PalletTown_Text_CanStoreItemsAndMonsInPC::
     .string "Technology is incredible!\p"
-    .string "You can now store and recall items\n"
-    .string "and POKéMON as data via PC.$"
+    .string "But even the PC clock says it's\n"
+    .string "midnight, no matter when I check.$"
 
 PalletTown_Text_OakPokemonResearchLab::
     .string "OAK POKéMON RESEARCH LAB$"
